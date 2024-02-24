@@ -7,3 +7,5 @@ en el juego jugada tras jugada.
 
 *(Al lado de cada comentario he puesto un número indicando el orden en que creé todos los métodos y conjuntos de widgets de este
 programa)
+
+Aún faltan cosas por completar
